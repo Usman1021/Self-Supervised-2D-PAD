@@ -1,7 +1,7 @@
 ## [Self-supervised 2D face presentation attackdetection via temporal sequence sampling](https://www.techrxiv.org/articles/preprint/Self-supervised_2D_face_presentation_attack_detection_via_temporal_sequence_sampling/16917526)
 #### Authors: Usman Muhammad, Zitong Yu, and Jukka Komulainen
 
-#### Journal: [PATTERN RECOGNITION LETTERS](https://www.journals.elsevier.com/pattern-recognition-letters) - Elsevier **[**[Special Issue on Biometric Presentation Attacks: handcrafted features versus deep learning approaches (BioPAth)]**
+#### Journal: [PATTERN RECOGNITION LETTERS](https://www.journals.elsevier.com/pattern-recognition-letters) - Elsevier [Special Issue on Biometric Presentation Attacks: handcrafted features versus deep learning approaches (BioPAth)]
 ##
 
 ### Highlights
