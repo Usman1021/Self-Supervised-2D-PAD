@@ -5,6 +5,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %% Train the Model for Supervised Learning
+% Follow the instructions given by the datasets to split real and fake videos. Make two folders named as “real and “attack”. 
+% Put the videos into these folders and train the model for face anti-spoofing. 
+
 %% Input the folder link of your training data
 rootFolder = fullfile(input);
 categories = {'real', 'attack'};
