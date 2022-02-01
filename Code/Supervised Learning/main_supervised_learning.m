@@ -3,8 +3,8 @@
 %% If you are using this code please cite the following paper:                                                                                      %
 % Muhammad, Usman, Zitong Yu, and Jukka Komulainen. "Self-supervised 2D face presentation attack detection via temporal sequence sampling." (2021). % 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%% For any problem in running the code, please contact me through following emails: usman@mail.bnu.edu.cn  or muhammad.usman@oulu.fi
+%% For any problem in running the code, please contact me through following emails: usman@mail.bnu.edu.cn  or muhammad.usman@oulu.fi                %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %% Train the Model for Supervised Learning
 % Follow the instructions given by the datasets to split real and fake videos. Make two folders named as “real and “attack”. 
