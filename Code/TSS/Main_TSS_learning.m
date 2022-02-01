@@ -1,7 +1,9 @@
 %% This research is made available to the research community.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% If you are using this code please cite the following paper:                                                                                      %
-% Muhammad, Usman, Zitong Yu, and Jukka Komulainen. "Self-supervised 2D face presentation attack detection via temporal sequence sampling." (2021). % 
+% Muhammad, Usman, Zitong Yu, and Jukka Komulainen. "Self-supervised 2D face presentation attack detection via temporal sequence sampling." (2021). %
+% ..................................................................................................................................................%
+%% For any problem in running the code, please contact me through following emails: usman@mail.bnu.edu.cn  or muhammad.usman@oulu.fi                %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %% TSS learning for videos
