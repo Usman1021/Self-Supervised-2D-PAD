@@ -34,5 +34,6 @@ Muhammad, Usman; Yu, Zitong; Komulainen, Jukka (2021): Self-supervised 2D face p
 
 ### Links
 • Main link: https://www.sciencedirect.com/science/article/pii/S0167865522000605
+
 • Preprint: https://doi.org/10.36227/techrxiv.16917526.v1 
 
