@@ -1,4 +1,4 @@
-## [Self-supervised 2D face presentation attack detection via temporal sequence sampling](https://www.techrxiv.org/articles/preprint/Self-supervised_2D_face_presentation_attack_detection_via_temporal_sequence_sampling/16917526)
+## Self-supervised 2D face presentation attack detection via temporal sequence sampling
 #### Authors: Usman Muhammad, Zitong Yu, and Jukka Komulainen
 For any problem in running the code, please contact me through following emails: usman@mail.bnu.edu.cn  or muhammad.usman@oulu.fi
 ##
@@ -22,13 +22,17 @@ Conventional 2D face biometric systems are vulnerable to presentation attacks pe
 Muhammad, Usman; Yu, Zitong; Komulainen, Jukka (2021): Self-supervised 2D face presentation attack detection via temporal sequence sampling. TechRxiv.  
 
 ### BibTeX
-@article{muhammad2021self,
+@article{muhammad2022self,
   title={Self-supervised 2D face presentation attack detection via temporal sequence sampling},
   author={Muhammad, Usman and Yu, Zitong and Komulainen, Jukka},
-  year={2021},
-  publisher={TechRxiv}
+  journal={Pattern Recognition Letters},
+  volume={156},
+  pages={15--22},
+  year={2022},
+  publisher={Elsevier}
 }
 
 ### Links
-• Preprint. https://doi.org/10.36227/techrxiv.16917526.v1 
+• Main link: https://www.sciencedirect.com/science/article/pii/S0167865522000605
+• Preprint: https://doi.org/10.36227/techrxiv.16917526.v1 
 
