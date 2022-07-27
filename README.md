@@ -1,4 +1,4 @@
-## Self-supervised 2D face presentation attack detection via temporal sequence sampling
+## [Self-supervised 2D face presentation attack detection via temporal sequence sampling](https://www.sciencedirect.com/science/article/pii/S0167865522000605)
 #### Authors: Usman Muhammad, Zitong Yu, and Jukka Komulainen
 For any problem in running the code, please contact me through following emails: usman@mail.bnu.edu.cn  or muhammad.usman@oulu.fi
 ##
